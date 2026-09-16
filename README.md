@@ -4,13 +4,21 @@ Investigating How DNA Sequence Changes Affect Protein Products and Human Phenoty
 # Disease-Gene-Mutation Lab
 
 **Name:** Obineta, Inah Marie A.
+
 **Disease/Phenotype:** Alpha-1 Antitrypsin Deficiency (PiZ)
+
 **Gene:** SERPINA1 (serpin family A member 1)
+
 **Reference Transcript Accession:** NM_000295.4
+
 **Reference Protein Accession:** NP_000286.3
+
 **Documented Variant:** c.1096G>A (p.Glu366Lys) — PiZ
+
 **ClinVar Accession:** VCV000022860.7
+
 **Galaxy History Name:** SERPINA1_Salinity_RNAseq_Lab
+
 **Date of Analysis:** 2026-09-16
 
 ---
