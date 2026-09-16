@@ -30,4 +30,4 @@ This repository investigates the molecular effects of the PiZ missense mutation 
 | Variant | Type | Effect |
 |---|---|---|
 | PiZ (c.1096G>A) | Missense substitution | Glu366Lys → protein misfolding & retention |
-| 1-bp Del (c.298del) | Frameshift deletion | Truncated protein at ~123 aa → complete loss of function |
+| 1-bp Del (c.298del) | Frameshift deletion | Truncated protein at 123 aa → complete loss of function |
