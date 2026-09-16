@@ -43,5 +43,11 @@ Frameshift mutations (deletions not divisible by 3) are far more disruptive than
 ---
 
 ### References
-- Lomas, D. A., et al. (1992). The mechanism of Z α₁-antitrypsin accumulation in the liver. *Nature, 357*, 605–607.
-- Stoller, J. K., & Aboussouan, L. S. (2005). α₁-antitrypsin deficiency. *The Lancet, 365*(9478), 2225–2236.
+- Lomas, D. A., Evans, D. L., Finch, J. T., & Carrell, R. W. (1992). The mechanism of Z α₁-antitrypsin accumulation in the liver. Nature, 357(6379), 605–607.
+🔗 https://doi.org/10.1038/357605a0
+- National Center for Biotechnology Information. (n.d.). ClinVar: VCV000017967 — SERPINA1 c.1096G>A (p.Glu366Lys). U.S. National Library of Medicine. Retrieved September 16, 2026, from 🔗 https://www.ncbi.nlm.nih.gov/clinvar/variation/17967/
+- National Center for Biotechnology Information. (n.d.). NCBI Nucleotide: NM_000295.4 — SERPINA1 transcript variant 1, mRNA. Retrieved September 16, 2026, from
+  🔗 https://www.ncbi.nlm.nih.gov/nuccore/NM_000295.
+- Online Mendelian Inheritance in Man. (n.d.). #613490 — Alpha-1-antitrypsin deficiency (A1ATD). McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University. Retrieved September 16, 2026, from 🔗 https://omim.org/entry/613490
+- Stoller, J. K., & Aboussouan, L. S. (2005). α₁-antitrypsin deficiency. The Lancet, 365(9478), 2225–2236. 🔗 https://doi.org/10.1016/S0140-6736(05)66781-5
+
