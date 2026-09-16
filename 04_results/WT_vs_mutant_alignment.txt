@@ -1,0 +1,33 @@
+# WT vs PiZ (c.1096G>A) Protein Alignment — Positions 360–370
+
+Wild-Type:  ...KPFVFLMIEQNTKSPLFMGKVVNPTQK...
+                  366
+Wild-Type:        ...E... → Glutamic acid (Glu/E)
+PiZ Mutant:       ...K... → Lysine (Lys/K)
+                  ↑
+              Only change at position 366
+
+Full-length comparison:
+- WT:  418 amino acids
+- PiZ: 418 amino acids
+- Differences: 1 residue (position 366)
+- Identical: 417 residues
+
+# WT vs 1-bp Deletion (c.298del) Alignment
+
+Wild-Type (codons 98–105):
+... GGT  GCC  AGC  TTC  CAG  GGT  ...
+... Gly  Ala  Ser  Phe  Gln  Gly  ...
+
+1-bp Deletion Mutant:
+... GGT  GCC  GCT  TCC  AGG  TAA  ...
+... Gly  Ala  Ala  Ser  Arg  *STOP* ...
+                  ↑
+              Frame shift starts here
+
+Comparison:
+- WT:        418 aa, full-length
+- 1-bp Del:  ~123 aa, truncated at premature stop
+- Identical: First 99 aa only
+- Changed:   Positions 100–123 completely different
+- Lost:      Positions 124–418 entirely missing
